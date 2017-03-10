@@ -1,5 +1,5 @@
-create database mercancia;
-use mercancia;
+
+use cx0cbb132z69nw9j;
 create table productos(
 	id_producto int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	producto varchar(40) NOT NULL,
